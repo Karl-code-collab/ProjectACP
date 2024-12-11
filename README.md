@@ -1,6 +1,6 @@
 # BetaMax - Blood Donation Management System
 
-BetaMax is a comprehensive Blood Donation Management System built with Python, designed to streamline the process of blood donation and requests. The system aligns with UN Sustainable Development Goal 3 (Good Health and Well-being) by facilitating efficient blood donation management.
+BetaMax is a comprehensive Blood Donation Management System built with Python, designed to streamline the process of blood donation and requests. The system aligns with Sustainable Development Goal 3 (Good Health and Well-being) by facilitating efficient blood donation management.
 
 ## SDG Alignment
 
